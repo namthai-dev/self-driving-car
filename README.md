@@ -20,6 +20,10 @@ Install dependency
 
     poetry install
 
+## Dataset
+
+https://drive.google.com/drive/folders/1O_hK9Nh5temALLW4J9OWmPKJV4P1VSt3?usp=share_link
+
 ## How to train
 
 Run: `self-driving-car.ipynb`
