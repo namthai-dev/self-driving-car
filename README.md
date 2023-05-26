@@ -10,6 +10,26 @@ Download and run the car driving simulation at
 
 ## Setup
 
+Python version: 3.11.3
+
+Install pip
+
+    pip install poetry
+
 Install dependency
 
     poetry install
+
+## How to train
+
+Run: `self-driving-car.ipynb`
+
+Output: `./models`
+
+## How to run
+
+Open car simulation
+
+Run driving automation
+
+    python drive.py ./model/<ml_model> (optional)./<result_dir>
