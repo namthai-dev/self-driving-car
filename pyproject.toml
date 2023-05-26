@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Nam Thai <nam.thai.dev@outlook.com>"]
 readme = "README.md"
-packages = [{include = "self_driving_car"}]
 
 [tool.poetry.dependencies]
 python = ">=3.9, <3.12"
@@ -16,7 +15,7 @@ keras = "^2.12.0"
 scikit-learn = "^1.2.2"
 tensorflow = "^2.12.0"
 flask = "^2.3.2"
-python-socketio = "^5.8.0"
+python-socketio = "4.2.1"
 eventlet = "^0.33.3"
 
 
